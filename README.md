@@ -35,11 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A relation of the fearefull estate of Francis Spira in the yeare, 1548.Bacon, Nathaniel, 1593-1660.1
+
+1. A Preface.
+
 #####Body#####
-A relation of the fearefull estate of Francis Spira in the yeare, 1548.Bacon, Nathaniel, 1593-1660.1
+
+1. A
+RELATION OF
+the fearefull eſtate of
+FRANCIS SPIRA.
+
 #####Back#####
-A relation of the fearefull estate of Francis Spira in the yeare, 1548.Bacon, Nathaniel, 1593-1660.1
+
+1. Decemb. 2. 1637.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
